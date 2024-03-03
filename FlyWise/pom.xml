@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>Airline_Reservation</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Airline Reservation</name>
     <description>Airline Reservation</description>
     <properties>
